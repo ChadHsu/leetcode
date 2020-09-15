@@ -1,0 +1,13 @@
+D:\C#\leetcode\ShuffleTheArray\bin\Debug\netcoreapp3.1\ShuffleTheArray.exe
+D:\C#\leetcode\ShuffleTheArray\bin\Debug\netcoreapp3.1\ShuffleTheArray.deps.json
+D:\C#\leetcode\ShuffleTheArray\bin\Debug\netcoreapp3.1\ShuffleTheArray.runtimeconfig.json
+D:\C#\leetcode\ShuffleTheArray\bin\Debug\netcoreapp3.1\ShuffleTheArray.runtimeconfig.dev.json
+D:\C#\leetcode\ShuffleTheArray\bin\Debug\netcoreapp3.1\ShuffleTheArray.dll
+D:\C#\leetcode\ShuffleTheArray\bin\Debug\netcoreapp3.1\ShuffleTheArray.pdb
+D:\C#\leetcode\ShuffleTheArray\obj\Debug\netcoreapp3.1\ShuffleTheArray.csprojAssemblyReference.cache
+D:\C#\leetcode\ShuffleTheArray\obj\Debug\netcoreapp3.1\ShuffleTheArray.AssemblyInfoInputs.cache
+D:\C#\leetcode\ShuffleTheArray\obj\Debug\netcoreapp3.1\ShuffleTheArray.AssemblyInfo.cs
+D:\C#\leetcode\ShuffleTheArray\obj\Debug\netcoreapp3.1\ShuffleTheArray.csproj.CoreCompileInputs.cache
+D:\C#\leetcode\ShuffleTheArray\obj\Debug\netcoreapp3.1\ShuffleTheArray.dll
+D:\C#\leetcode\ShuffleTheArray\obj\Debug\netcoreapp3.1\ShuffleTheArray.pdb
+D:\C#\leetcode\ShuffleTheArray\obj\Debug\netcoreapp3.1\ShuffleTheArray.genruntimeconfig.cache
