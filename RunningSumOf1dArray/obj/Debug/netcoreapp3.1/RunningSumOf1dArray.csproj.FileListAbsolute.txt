@@ -1,0 +1,12 @@
+D:\C#\leetcode\RunningSumOf1dArray\bin\Debug\netcoreapp3.1\RunningSumOf1dArray.exe
+D:\C#\leetcode\RunningSumOf1dArray\bin\Debug\netcoreapp3.1\RunningSumOf1dArray.deps.json
+D:\C#\leetcode\RunningSumOf1dArray\bin\Debug\netcoreapp3.1\RunningSumOf1dArray.runtimeconfig.json
+D:\C#\leetcode\RunningSumOf1dArray\bin\Debug\netcoreapp3.1\RunningSumOf1dArray.runtimeconfig.dev.json
+D:\C#\leetcode\RunningSumOf1dArray\bin\Debug\netcoreapp3.1\RunningSumOf1dArray.dll
+D:\C#\leetcode\RunningSumOf1dArray\bin\Debug\netcoreapp3.1\RunningSumOf1dArray.pdb
+D:\C#\leetcode\RunningSumOf1dArray\obj\Debug\netcoreapp3.1\RunningSumOf1dArray.AssemblyInfoInputs.cache
+D:\C#\leetcode\RunningSumOf1dArray\obj\Debug\netcoreapp3.1\RunningSumOf1dArray.AssemblyInfo.cs
+D:\C#\leetcode\RunningSumOf1dArray\obj\Debug\netcoreapp3.1\RunningSumOf1dArray.csproj.CoreCompileInputs.cache
+D:\C#\leetcode\RunningSumOf1dArray\obj\Debug\netcoreapp3.1\RunningSumOf1dArray.dll
+D:\C#\leetcode\RunningSumOf1dArray\obj\Debug\netcoreapp3.1\RunningSumOf1dArray.pdb
+D:\C#\leetcode\RunningSumOf1dArray\obj\Debug\netcoreapp3.1\RunningSumOf1dArray.genruntimeconfig.cache
