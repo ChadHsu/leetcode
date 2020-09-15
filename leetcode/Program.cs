@@ -6,13 +6,7 @@ namespace leetcode
     {
         static void Main(string[] args)
         {
-            int[] nums = new int[] { 1, 2, 3, 4 };
-            int[] output = RunningSum(nums);
-            foreach (int x in output)
-            {
-                Console.WriteLine(x);
-            };
-            Console.ReadLine();
+            Console.WriteLine("Hello World!");
         }
     }
 }
