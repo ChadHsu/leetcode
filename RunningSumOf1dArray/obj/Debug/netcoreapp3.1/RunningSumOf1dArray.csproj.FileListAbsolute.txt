@@ -10,3 +10,4 @@ D:\C#\leetcode\RunningSumOf1dArray\obj\Debug\netcoreapp3.1\RunningSumOf1dArray.c
 D:\C#\leetcode\RunningSumOf1dArray\obj\Debug\netcoreapp3.1\RunningSumOf1dArray.dll
 D:\C#\leetcode\RunningSumOf1dArray\obj\Debug\netcoreapp3.1\RunningSumOf1dArray.pdb
 D:\C#\leetcode\RunningSumOf1dArray\obj\Debug\netcoreapp3.1\RunningSumOf1dArray.genruntimeconfig.cache
+D:\C#\leetcode\RunningSumOf1dArray\obj\Debug\netcoreapp3.1\RunningSumOf1dArray.csprojAssemblyReference.cache

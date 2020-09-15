@@ -6,7 +6,7 @@ namespace RunningSumOf1dArray
     {
         static void Main(string[] args)
         {
-            int[] nums = new int[] { 1, 2, 3, 4 };
+            int[] nums = new int[] { 1, 2, 3, 4, -99999999 };
             int[] output = RunningSum(nums);
             foreach (int x in output)
             {
@@ -16,17 +16,18 @@ namespace RunningSumOf1dArray
         }
         public static int[] RunningSum(int[] nums)
         {
-            int[] output = new int[nums.Length];
-
-            for (int i = 0; i < nums.Length; i++)
+            if (nums.Length >= 1 && nums.Length <= 1000)
             {
-                for (int j = 0; j <= i; j++)
+                for (int i = 1; i < nums.Length; i++)
                 {
-                    output[i] += nums[j];
+                    nums[i] = nums[i] + nums[i - 1];
+                    if (nums[i] <= -1000000 && nums[i] >= 1000000)
+                        return null;
                 }
-            };
-
-            return output;
+                return nums;
+            }
+            else
+                return null;
         }
     }
 }
