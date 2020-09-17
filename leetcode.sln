@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RunningSumOf1dArray", "RunningSumOf1dArray\RunningSumOf1dArray.csproj", "{C443FF3C-4E4A-41F3-8242-218C3C0CD126}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShuffleTheArray", "ShuffleTheArray\ShuffleTheArray.csproj", "{981403EC-F641-4A8A-B731-3C5B24205D35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShuffleTheArray", "ShuffleTheArray\ShuffleTheArray.csproj", "{981403EC-F641-4A8A-B731-3C5B24205D35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KidsWithTheGreatestNumberOfCandies", "KidsWithTheGreatestNumberOfCandies\KidsWithTheGreatestNumberOfCandies.csproj", "{8D79148B-E3FE-4030-9141-26E5B8AD316B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{981403EC-F641-4A8A-B731-3C5B24205D35}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{981403EC-F641-4A8A-B731-3C5B24205D35}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{981403EC-F641-4A8A-B731-3C5B24205D35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D79148B-E3FE-4030-9141-26E5B8AD316B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D79148B-E3FE-4030-9141-26E5B8AD316B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D79148B-E3FE-4030-9141-26E5B8AD316B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D79148B-E3FE-4030-9141-26E5B8AD316B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

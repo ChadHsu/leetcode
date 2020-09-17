@@ -1,0 +1,13 @@
+D:\C#\leetcode\KidsWithTheGreatestNumberOfCandies\bin\Debug\netcoreapp3.1\KidsWithTheGreatestNumberOfCandies.exe
+D:\C#\leetcode\KidsWithTheGreatestNumberOfCandies\bin\Debug\netcoreapp3.1\KidsWithTheGreatestNumberOfCandies.deps.json
+D:\C#\leetcode\KidsWithTheGreatestNumberOfCandies\bin\Debug\netcoreapp3.1\KidsWithTheGreatestNumberOfCandies.runtimeconfig.json
+D:\C#\leetcode\KidsWithTheGreatestNumberOfCandies\bin\Debug\netcoreapp3.1\KidsWithTheGreatestNumberOfCandies.runtimeconfig.dev.json
+D:\C#\leetcode\KidsWithTheGreatestNumberOfCandies\bin\Debug\netcoreapp3.1\KidsWithTheGreatestNumberOfCandies.dll
+D:\C#\leetcode\KidsWithTheGreatestNumberOfCandies\bin\Debug\netcoreapp3.1\KidsWithTheGreatestNumberOfCandies.pdb
+D:\C#\leetcode\KidsWithTheGreatestNumberOfCandies\obj\Debug\netcoreapp3.1\KidsWithTheGreatestNumberOfCandies.csprojAssemblyReference.cache
+D:\C#\leetcode\KidsWithTheGreatestNumberOfCandies\obj\Debug\netcoreapp3.1\KidsWithTheGreatestNumberOfCandies.AssemblyInfoInputs.cache
+D:\C#\leetcode\KidsWithTheGreatestNumberOfCandies\obj\Debug\netcoreapp3.1\KidsWithTheGreatestNumberOfCandies.AssemblyInfo.cs
+D:\C#\leetcode\KidsWithTheGreatestNumberOfCandies\obj\Debug\netcoreapp3.1\KidsWithTheGreatestNumberOfCandies.csproj.CoreCompileInputs.cache
+D:\C#\leetcode\KidsWithTheGreatestNumberOfCandies\obj\Debug\netcoreapp3.1\KidsWithTheGreatestNumberOfCandies.dll
+D:\C#\leetcode\KidsWithTheGreatestNumberOfCandies\obj\Debug\netcoreapp3.1\KidsWithTheGreatestNumberOfCandies.pdb
+D:\C#\leetcode\KidsWithTheGreatestNumberOfCandies\obj\Debug\netcoreapp3.1\KidsWithTheGreatestNumberOfCandies.genruntimeconfig.cache
