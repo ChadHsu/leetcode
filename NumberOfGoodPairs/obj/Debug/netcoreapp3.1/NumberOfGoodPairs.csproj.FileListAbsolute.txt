@@ -1,0 +1,13 @@
+D:\C#\leetcode\NumberOfGoodPairs\bin\Debug\netcoreapp3.1\NumberOfGoodPairs.exe
+D:\C#\leetcode\NumberOfGoodPairs\bin\Debug\netcoreapp3.1\NumberOfGoodPairs.deps.json
+D:\C#\leetcode\NumberOfGoodPairs\bin\Debug\netcoreapp3.1\NumberOfGoodPairs.runtimeconfig.json
+D:\C#\leetcode\NumberOfGoodPairs\bin\Debug\netcoreapp3.1\NumberOfGoodPairs.runtimeconfig.dev.json
+D:\C#\leetcode\NumberOfGoodPairs\bin\Debug\netcoreapp3.1\NumberOfGoodPairs.dll
+D:\C#\leetcode\NumberOfGoodPairs\bin\Debug\netcoreapp3.1\NumberOfGoodPairs.pdb
+D:\C#\leetcode\NumberOfGoodPairs\obj\Debug\netcoreapp3.1\NumberOfGoodPairs.csprojAssemblyReference.cache
+D:\C#\leetcode\NumberOfGoodPairs\obj\Debug\netcoreapp3.1\NumberOfGoodPairs.AssemblyInfoInputs.cache
+D:\C#\leetcode\NumberOfGoodPairs\obj\Debug\netcoreapp3.1\NumberOfGoodPairs.AssemblyInfo.cs
+D:\C#\leetcode\NumberOfGoodPairs\obj\Debug\netcoreapp3.1\NumberOfGoodPairs.csproj.CoreCompileInputs.cache
+D:\C#\leetcode\NumberOfGoodPairs\obj\Debug\netcoreapp3.1\NumberOfGoodPairs.dll
+D:\C#\leetcode\NumberOfGoodPairs\obj\Debug\netcoreapp3.1\NumberOfGoodPairs.pdb
+D:\C#\leetcode\NumberOfGoodPairs\obj\Debug\netcoreapp3.1\NumberOfGoodPairs.genruntimeconfig.cache
