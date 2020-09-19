@@ -1,0 +1,13 @@
+D:\C#\leetcode\HowManyNumbersAreSmallerThanTheCurrentNumber\bin\Debug\netcoreapp3.1\HowManyNumbersAreSmallerThanTheCurrentNumber.exe
+D:\C#\leetcode\HowManyNumbersAreSmallerThanTheCurrentNumber\bin\Debug\netcoreapp3.1\HowManyNumbersAreSmallerThanTheCurrentNumber.deps.json
+D:\C#\leetcode\HowManyNumbersAreSmallerThanTheCurrentNumber\bin\Debug\netcoreapp3.1\HowManyNumbersAreSmallerThanTheCurrentNumber.runtimeconfig.json
+D:\C#\leetcode\HowManyNumbersAreSmallerThanTheCurrentNumber\bin\Debug\netcoreapp3.1\HowManyNumbersAreSmallerThanTheCurrentNumber.runtimeconfig.dev.json
+D:\C#\leetcode\HowManyNumbersAreSmallerThanTheCurrentNumber\bin\Debug\netcoreapp3.1\HowManyNumbersAreSmallerThanTheCurrentNumber.dll
+D:\C#\leetcode\HowManyNumbersAreSmallerThanTheCurrentNumber\bin\Debug\netcoreapp3.1\HowManyNumbersAreSmallerThanTheCurrentNumber.pdb
+D:\C#\leetcode\HowManyNumbersAreSmallerThanTheCurrentNumber\obj\Debug\netcoreapp3.1\HowManyNumbersAreSmallerThanTheCurrentNumber.csprojAssemblyReference.cache
+D:\C#\leetcode\HowManyNumbersAreSmallerThanTheCurrentNumber\obj\Debug\netcoreapp3.1\HowManyNumbersAreSmallerThanTheCurrentNumber.AssemblyInfoInputs.cache
+D:\C#\leetcode\HowManyNumbersAreSmallerThanTheCurrentNumber\obj\Debug\netcoreapp3.1\HowManyNumbersAreSmallerThanTheCurrentNumber.AssemblyInfo.cs
+D:\C#\leetcode\HowManyNumbersAreSmallerThanTheCurrentNumber\obj\Debug\netcoreapp3.1\HowManyNumbersAreSmallerThanTheCurrentNumber.csproj.CoreCompileInputs.cache
+D:\C#\leetcode\HowManyNumbersAreSmallerThanTheCurrentNumber\obj\Debug\netcoreapp3.1\HowManyNumbersAreSmallerThanTheCurrentNumber.dll
+D:\C#\leetcode\HowManyNumbersAreSmallerThanTheCurrentNumber\obj\Debug\netcoreapp3.1\HowManyNumbersAreSmallerThanTheCurrentNumber.pdb
+D:\C#\leetcode\HowManyNumbersAreSmallerThanTheCurrentNumber\obj\Debug\netcoreapp3.1\HowManyNumbersAreSmallerThanTheCurrentNumber.genruntimeconfig.cache

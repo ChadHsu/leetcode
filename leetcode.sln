@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShuffleTheArray", "ShuffleT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KidsWithTheGreatestNumberOfCandies", "KidsWithTheGreatestNumberOfCandies\KidsWithTheGreatestNumberOfCandies.csproj", "{8D79148B-E3FE-4030-9141-26E5B8AD316B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfGoodPairs", "NumberOfGoodPairs\NumberOfGoodPairs.csproj", "{12C0FD05-BAE8-4E9F-A108-BE347EA5103D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfGoodPairs", "NumberOfGoodPairs\NumberOfGoodPairs.csproj", "{12C0FD05-BAE8-4E9F-A108-BE347EA5103D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowManyNumbersAreSmallerThanTheCurrentNumber", "HowManyNumbersAreSmallerThanTheCurrentNumber\HowManyNumbersAreSmallerThanTheCurrentNumber.csproj", "{065F7C81-FBED-4270-A156-96ED53B2B9CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{12C0FD05-BAE8-4E9F-A108-BE347EA5103D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12C0FD05-BAE8-4E9F-A108-BE347EA5103D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12C0FD05-BAE8-4E9F-A108-BE347EA5103D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{065F7C81-FBED-4270-A156-96ED53B2B9CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065F7C81-FBED-4270-A156-96ED53B2B9CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065F7C81-FBED-4270-A156-96ED53B2B9CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065F7C81-FBED-4270-A156-96ED53B2B9CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
