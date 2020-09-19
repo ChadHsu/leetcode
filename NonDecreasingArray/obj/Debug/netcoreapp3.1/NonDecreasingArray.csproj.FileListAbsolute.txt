@@ -1,0 +1,13 @@
+D:\C#\leetcode\NonDecreasingArray\bin\Debug\netcoreapp3.1\NonDecreasingArray.exe
+D:\C#\leetcode\NonDecreasingArray\bin\Debug\netcoreapp3.1\NonDecreasingArray.deps.json
+D:\C#\leetcode\NonDecreasingArray\bin\Debug\netcoreapp3.1\NonDecreasingArray.runtimeconfig.json
+D:\C#\leetcode\NonDecreasingArray\bin\Debug\netcoreapp3.1\NonDecreasingArray.runtimeconfig.dev.json
+D:\C#\leetcode\NonDecreasingArray\bin\Debug\netcoreapp3.1\NonDecreasingArray.dll
+D:\C#\leetcode\NonDecreasingArray\bin\Debug\netcoreapp3.1\NonDecreasingArray.pdb
+D:\C#\leetcode\NonDecreasingArray\obj\Debug\netcoreapp3.1\NonDecreasingArray.csprojAssemblyReference.cache
+D:\C#\leetcode\NonDecreasingArray\obj\Debug\netcoreapp3.1\NonDecreasingArray.AssemblyInfoInputs.cache
+D:\C#\leetcode\NonDecreasingArray\obj\Debug\netcoreapp3.1\NonDecreasingArray.AssemblyInfo.cs
+D:\C#\leetcode\NonDecreasingArray\obj\Debug\netcoreapp3.1\NonDecreasingArray.csproj.CoreCompileInputs.cache
+D:\C#\leetcode\NonDecreasingArray\obj\Debug\netcoreapp3.1\NonDecreasingArray.dll
+D:\C#\leetcode\NonDecreasingArray\obj\Debug\netcoreapp3.1\NonDecreasingArray.pdb
+D:\C#\leetcode\NonDecreasingArray\obj\Debug\netcoreapp3.1\NonDecreasingArray.genruntimeconfig.cache
