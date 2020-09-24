@@ -1,0 +1,13 @@
+D:\C#\leetcode\ThirdMaximumNumber\obj\Debug\netcoreapp3.1\ThirdMaximumNumber.AssemblyInfoInputs.cache
+D:\C#\leetcode\ThirdMaximumNumber\obj\Debug\netcoreapp3.1\ThirdMaximumNumber.AssemblyInfo.cs
+D:\C#\leetcode\ThirdMaximumNumber\obj\Debug\netcoreapp3.1\ThirdMaximumNumber.csproj.CoreCompileInputs.cache
+D:\C#\leetcode\ThirdMaximumNumber\bin\Debug\netcoreapp3.1\ThirdMaximumNumber.exe
+D:\C#\leetcode\ThirdMaximumNumber\bin\Debug\netcoreapp3.1\ThirdMaximumNumber.deps.json
+D:\C#\leetcode\ThirdMaximumNumber\bin\Debug\netcoreapp3.1\ThirdMaximumNumber.runtimeconfig.json
+D:\C#\leetcode\ThirdMaximumNumber\bin\Debug\netcoreapp3.1\ThirdMaximumNumber.runtimeconfig.dev.json
+D:\C#\leetcode\ThirdMaximumNumber\bin\Debug\netcoreapp3.1\ThirdMaximumNumber.dll
+D:\C#\leetcode\ThirdMaximumNumber\bin\Debug\netcoreapp3.1\ThirdMaximumNumber.pdb
+D:\C#\leetcode\ThirdMaximumNumber\obj\Debug\netcoreapp3.1\ThirdMaximumNumber.dll
+D:\C#\leetcode\ThirdMaximumNumber\obj\Debug\netcoreapp3.1\ThirdMaximumNumber.pdb
+D:\C#\leetcode\ThirdMaximumNumber\obj\Debug\netcoreapp3.1\ThirdMaximumNumber.genruntimeconfig.cache
+D:\C#\leetcode\ThirdMaximumNumber\obj\Debug\netcoreapp3.1\ThirdMaximumNumber.csprojAssemblyReference.cache

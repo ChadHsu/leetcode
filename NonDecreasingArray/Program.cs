@@ -40,6 +40,11 @@ namespace NonDecreasingArray
                             nums[i + 1] = nums[i];
                             isChange = true;
                         }
+                        if (i == 0)
+                        {
+                            nums[i] = nums[i + 1];
+                            isChange = true;
+                        }
                     }
                 }
                 return true;
