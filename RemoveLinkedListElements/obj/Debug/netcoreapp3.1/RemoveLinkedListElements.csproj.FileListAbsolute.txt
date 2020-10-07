@@ -1,0 +1,13 @@
+D:\C#\leetcode\RemoveLinkedListElements\bin\Debug\netcoreapp3.1\RemoveLinkedListElements.exe
+D:\C#\leetcode\RemoveLinkedListElements\bin\Debug\netcoreapp3.1\RemoveLinkedListElements.deps.json
+D:\C#\leetcode\RemoveLinkedListElements\bin\Debug\netcoreapp3.1\RemoveLinkedListElements.runtimeconfig.json
+D:\C#\leetcode\RemoveLinkedListElements\bin\Debug\netcoreapp3.1\RemoveLinkedListElements.runtimeconfig.dev.json
+D:\C#\leetcode\RemoveLinkedListElements\bin\Debug\netcoreapp3.1\RemoveLinkedListElements.dll
+D:\C#\leetcode\RemoveLinkedListElements\bin\Debug\netcoreapp3.1\RemoveLinkedListElements.pdb
+D:\C#\leetcode\RemoveLinkedListElements\obj\Debug\netcoreapp3.1\RemoveLinkedListElements.csprojAssemblyReference.cache
+D:\C#\leetcode\RemoveLinkedListElements\obj\Debug\netcoreapp3.1\RemoveLinkedListElements.AssemblyInfoInputs.cache
+D:\C#\leetcode\RemoveLinkedListElements\obj\Debug\netcoreapp3.1\RemoveLinkedListElements.AssemblyInfo.cs
+D:\C#\leetcode\RemoveLinkedListElements\obj\Debug\netcoreapp3.1\RemoveLinkedListElements.csproj.CoreCompileInputs.cache
+D:\C#\leetcode\RemoveLinkedListElements\obj\Debug\netcoreapp3.1\RemoveLinkedListElements.dll
+D:\C#\leetcode\RemoveLinkedListElements\obj\Debug\netcoreapp3.1\RemoveLinkedListElements.pdb
+D:\C#\leetcode\RemoveLinkedListElements\obj\Debug\netcoreapp3.1\RemoveLinkedListElements.genruntimeconfig.cache
