@@ -1,0 +1,12 @@
+D:\C#\leetcode\DeleteNodeInALinkedList\bin\Debug\netcoreapp3.1\DeleteNodeInALinkedList.exe
+D:\C#\leetcode\DeleteNodeInALinkedList\bin\Debug\netcoreapp3.1\DeleteNodeInALinkedList.deps.json
+D:\C#\leetcode\DeleteNodeInALinkedList\bin\Debug\netcoreapp3.1\DeleteNodeInALinkedList.runtimeconfig.json
+D:\C#\leetcode\DeleteNodeInALinkedList\bin\Debug\netcoreapp3.1\DeleteNodeInALinkedList.runtimeconfig.dev.json
+D:\C#\leetcode\DeleteNodeInALinkedList\bin\Debug\netcoreapp3.1\DeleteNodeInALinkedList.dll
+D:\C#\leetcode\DeleteNodeInALinkedList\bin\Debug\netcoreapp3.1\DeleteNodeInALinkedList.pdb
+D:\C#\leetcode\DeleteNodeInALinkedList\obj\Debug\netcoreapp3.1\DeleteNodeInALinkedList.AssemblyInfoInputs.cache
+D:\C#\leetcode\DeleteNodeInALinkedList\obj\Debug\netcoreapp3.1\DeleteNodeInALinkedList.AssemblyInfo.cs
+D:\C#\leetcode\DeleteNodeInALinkedList\obj\Debug\netcoreapp3.1\DeleteNodeInALinkedList.csproj.CoreCompileInputs.cache
+D:\C#\leetcode\DeleteNodeInALinkedList\obj\Debug\netcoreapp3.1\DeleteNodeInALinkedList.dll
+D:\C#\leetcode\DeleteNodeInALinkedList\obj\Debug\netcoreapp3.1\DeleteNodeInALinkedList.pdb
+D:\C#\leetcode\DeleteNodeInALinkedList\obj\Debug\netcoreapp3.1\DeleteNodeInALinkedList.genruntimeconfig.cache
