@@ -29,22 +29,28 @@ namespace RemoveLinkedListElements
         {
             if (head == null)
                 return head;
+            
             //until head != val
             while(head.next != null && head.val == val)
             {
                 head = head.next;
             }
-
+            if (head.next == null && head.val == val)
+                return null;
             ListNode pre = head;
             ListNode curr = head.next;
             while(curr != null)
             {
-                if (curr.val != val)
+                if (curr.val == val)
                 {
-                    pre.next = curr;
-                    pre = curr;
+                    pre.next = curr.next;
+                    curr = curr.next;
                 }
-                curr = curr.next;
+                else
+                {
+                    pre = curr;
+                    curr = curr.next;
+                }
             }
             if (pre != null)
                 pre.next = null;
